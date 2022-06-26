@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89a846ad-d359-4fdd-99ba-a2ba507e60c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../3_Auto_LoginBySessionID-inNodejs/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Auto_LoginBySessionID-inNodejs/views/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Auto_LoginBySessionID-inNodejs/views/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Auto_LoginBySessionID-inNodejs/views/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Auto_LoginBySessionID-inNodejs/views/notfound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_login_DeleteSession/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_login_DeleteSession/views/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_login_DeleteSession/views/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_login_DeleteSession/views/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4_login_DeleteSession/views/notfound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Remember-Me/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../1_Remember-Me/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Login_Create-Session-InNodejs/APP.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2_Login_Create-Session-InNodejs/APP.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Login_Create-Session-InNodejs/appp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Login_Create-Session-InNodejs/token/pao4swsl2o087gd0sxmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/test/GetIntrinsic.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/get-intrinsic/test/GetIntrinsic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/qs/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/qs/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/qs/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/qs/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/qs/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/qs/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/qs/dist/qs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/qs/dist/qs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/qs/lib/stringify.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/qs/lib/stringify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/qs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/qs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/qs/test/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/qs/test/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../node_modules/qs/test/stringify.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../node_modules/qs/test/stringify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AZqg9zqisygNFOZ0AANStIOl5s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89a846ad-d359-4fdd-99ba-a2ba507e60c7" name="Changes" comment="" />
+      <created>1655227563292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655227563292</updated>
+      <workItem from="1655227564445" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
